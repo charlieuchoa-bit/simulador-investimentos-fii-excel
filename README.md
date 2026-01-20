@@ -67,3 +67,9 @@ Simulador_FII.xlsx
 ## 📌 Observações
 
 Este projeto possui fins educacionais e não constitui recomendação de investimento.
+
+
+## 👩‍💻 Autoria
+
+Projeto desenvolvido por Fernanda Uchoa como parte de um processo de aprendizado prático em análise financeira e modelagem em Excel.
+
